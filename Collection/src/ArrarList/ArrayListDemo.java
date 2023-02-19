@@ -9,6 +9,7 @@ public class ArrayListDemo {
 			al1.add(10);
 			al1.add(20);
 			al1.add(40);
+//			Arraylist is synchronous 
 			System.out.print(al1.replaceAll(null));
 			/*System.out.println(al1.notifyAll());
 			/* System.out.println(al1.notify());
